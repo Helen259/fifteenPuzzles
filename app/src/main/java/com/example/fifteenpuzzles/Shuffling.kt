@@ -26,4 +26,5 @@ object Shuffling {
         }
         return countInversions % 2 == 0
     }
+
 }
