@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">fifteen puzzles</string>
+    <string name="you_won">Вы выиграли !</string>
+    <string name="new_game">Начать заново</string>
+    <string name="start_new_game">Start New Game</string>
+</resources>
